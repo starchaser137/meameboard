@@ -10,7 +10,7 @@ Just run the **meameboard.exe** file, and it should display a list of images in 
 Just enter the serial number of the image you want to use, and boom !
 It will be copied to your clipboard :)
 
-**NOTE:** You can also add meme templates of your own choice in the pics directory, and the tool will load them the next time you open it.
+**NOTE:** I have already added some images in the **pics** folder to get you started, but you can also add meme templates of your own choice in the pics directory, and the tool will load them the next time you open it.
 
 ## For Linux/Mac users:
 I will soon be adding a script for Linux and Mac.
