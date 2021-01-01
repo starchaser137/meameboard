@@ -1,5 +1,5 @@
 # meameboard
-## A meme-response utility for Windows.
+## A meme-response utility for Windows. ( and Linux... )
 ![dog_meme)template](https://raw.githubusercontent.com/starchaser137/meameboard/main/icon.ico)  
 
 Have you ever had one of those moments when you want to reply to a message using a meme template ?  
